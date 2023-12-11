@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Composables</string>
+    <string name="hello">Hello</string>
+    <string name="placeholder">field cannot be blank</string>
+</resources>
